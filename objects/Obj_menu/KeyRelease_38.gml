@@ -1,2 +1,4 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
+select--
+if(select<0){
+	select = op_max - 1
+}

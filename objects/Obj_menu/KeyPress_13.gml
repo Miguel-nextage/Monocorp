@@ -1,2 +1,8 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
+if(select == 0){
+	room_goto_next()
+}
+
+if(select==1){
+	game_end()
+}
+	
