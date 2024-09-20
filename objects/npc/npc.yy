@@ -1,0 +1,43 @@
+{
+  "$GMObject":"",
+  "%Name":"npc",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":true,
+  "name":"npc",
+  "overriddenProperties":[],
+  "parent":{
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
+  },
+  "parentObjectId":{
+    "name":"Obj_par_npc",
+    "path":"objects/Obj_par_npc/Obj_par_npc.yy",
+  },
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"nomevar","filters":[],"listItems":[],"multiselect":false,"name":"nomevar","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Quadro um\"","varType":2,},
+  ],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":{
+    "name":"Sprite2",
+    "path":"sprites/Sprite2/Sprite2.yy",
+  },
+  "spriteMaskId":null,
+  "visible":false,
+}
