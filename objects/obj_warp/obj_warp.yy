@@ -29,6 +29,8 @@
     {"$GMObjectProperty":"v1","%Name":"xPosition","filters":[],"listItems":[],"multiselect":false,"name":"xPosition","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"yPosition","filters":[],"listItems":[],"multiselect":false,"name":"yPosition","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"Roomname","filters":[],"listItems":[],"multiselect":false,"name":"Roomname","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"Casa_Hub","path":"rooms/Casa_Hub/Casa_Hub.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Casa_Hub","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"tamainy","filters":[],"listItems":[],"multiselect":false,"name":"tamainy","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"630.1719","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"tamainx","filters":[],"listItems":[],"multiselect":false,"name":"tamainx","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1061","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

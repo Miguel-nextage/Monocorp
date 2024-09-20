@@ -1,4 +1,6 @@
+
+room_goto(Roomname)
+
 other.x = xPosition
 other.y = yPosition
 
-room_goto(Roomname)

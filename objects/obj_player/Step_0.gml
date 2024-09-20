@@ -46,3 +46,12 @@ if (tecla_down) side = 0
 if (tecla_up) side = 1
 
 sprite_index = sprites[moving][side]
+
+if distance_to_object(Obj_par_npc) <=10{
+	if keyboard_check_pressed(vk_space){
+		var _npcBORA = instance_nearest(x, y, Obj_par_npc);
+		var _dialogo = instance_create_layer(x, y, "instances_4", obj_dialogo)
+		_dialogo.npc_nome = _npcBORA.nome;
+	}
+}
+		
