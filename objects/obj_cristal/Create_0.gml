@@ -1,0 +1,1 @@
+global.cristais = instance_count

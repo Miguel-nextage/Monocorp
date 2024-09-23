@@ -15,3 +15,5 @@ sprites[1][3] = sprLwalk
 
 moving = 0
 side = 0
+
+global.sprites = placeholder

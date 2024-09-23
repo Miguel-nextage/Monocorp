@@ -90,7 +90,7 @@
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.353538,"scaleY":0.59375,"x":1060.6687,"y":539.59375,},
         {"$GMRInstance":"v1","%Name":"inst_1BD962BC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1BD962BC","objectId":{"name":"npc","path":"objects/npc/npc.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"npc","path":"objects/npc/npc.yy",},"propertyId":{"name":"nomevar","path":"objects/npc/npc.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Kanban\"",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.119163,"scaleY":0.59375,"x":880.2656,"y":256.0,},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.119163,"scaleY":0.59375,"x":876.2656,"y":264.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_2","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_6DF55B09","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_6DF55B09","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":3.375,"scaleY":3.1875,"spriteId":{"name":"cadera","path":"sprites/cadera/cadera.yy",},"x":1030.0,"y":544.0,},
@@ -610,7 +610,7 @@
   "name":"escritorio2",
   "parent":{
     "name":"Cenas",
-    "path":"folders/Cenas.yy",
+    "path":"folders/Caminhos/Cenas.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
