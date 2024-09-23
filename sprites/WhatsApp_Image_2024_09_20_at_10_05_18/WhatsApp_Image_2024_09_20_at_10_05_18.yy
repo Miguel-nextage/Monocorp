@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Cenas",
-    "path":"folders/Cenas.yy",
+    "path":"folders/Caminhos/Cenas.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
